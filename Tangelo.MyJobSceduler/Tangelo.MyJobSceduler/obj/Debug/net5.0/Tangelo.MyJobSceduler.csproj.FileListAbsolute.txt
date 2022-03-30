@@ -1,0 +1,15 @@
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/bin/Debug/net5.0/Tangelo.MyJobSceduler.deps.json
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/bin/Debug/net5.0/Tangelo.MyJobSceduler.runtimeconfig.json
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/bin/Debug/net5.0/Tangelo.MyJobSceduler.runtimeconfig.dev.json
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/bin/Debug/net5.0/Tangelo.MyJobSceduler.dll
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/bin/Debug/net5.0/ref/Tangelo.MyJobSceduler.dll
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/bin/Debug/net5.0/Tangelo.MyJobSceduler.pdb
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.csproj.AssemblyReference.cache
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.AssemblyInfoInputs.cache
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.AssemblyInfo.cs
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.csproj.CoreCompileInputs.cache
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.dll
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/ref/Tangelo.MyJobSceduler.dll
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.pdb
+/Users/erezshamay/Projects/Tangelo.MyJobSceduler/Tangelo.MyJobSceduler/obj/Debug/net5.0/Tangelo.MyJobSceduler.genruntimeconfig.cache
